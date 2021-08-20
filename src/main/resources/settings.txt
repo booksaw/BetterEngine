@@ -1,0 +1,2 @@
+window.width:1024
+window.height:600
